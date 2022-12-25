@@ -1,0 +1,7 @@
+aiosmtplib==1.1.7
+fastapi==0.88.0
+fastapi-mail
+pymongo==4.3.3
+python-dotenv==0.21.0
+uvicorn==0.20.0
+uvloop==0.17.0
