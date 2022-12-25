@@ -6,7 +6,7 @@
  
  steps :
     
-- Clone the project from github link [https://github.com/Faiez92/Signup-FastApi](https://github.com/Faiez92/Signup-FastApi)
+- Clone the project from github link git clone [https://github.com/Faiez92/Signup-FastApi](https://github.com/Faiez92/Signup-FastApi)
     
 - In the project root run docker-compose up
     
