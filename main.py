@@ -2,11 +2,11 @@ from fastapi import FastAPI, HTTPException
 from fastapi.responses import RedirectResponse
 from datetime import datetime, timedelta
 from email.mime.text import MIMEText
-from pymongo import mongo_client
 import uuid
 import smtplib
 
 from config import settings
+from pymongo import mongo_client
 
 app = FastAPI()
 
