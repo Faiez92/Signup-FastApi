@@ -4,9 +4,8 @@ from datetime import datetime, timedelta
 from email.mime.text import MIMEText
 import uuid
 import smtplib
-
-from config import settings
 from pymongo import mongo_client
+from config import settings
 
 app = FastAPI()
 
